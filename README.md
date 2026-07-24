@@ -1,16 +1,14 @@
 <div align="center">
 
-```
-$ whoami
-```
+### `Data Scientist` · `AI/ML Engineer` · `GenAI / RAG Systems`
 
-# John Varshan J
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00FF41)](https://www.linkedin.com/in/john-varshan-j-wbsj5/)
+[![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=00FF41)](mailto:varshanj805@gmail.com)
 
-### `Data Scientist` · `AI Engineer` · `GenAI / RAG Systems`
 
 ```bash
 > Building production-grade RAG pipelines & Agentic AI systems
-> M.Sc. Applied Data Science | SRM Institute of Science and Technology
+> M.Sc. Applied Data Science | B. Sc Statistics
 ```
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=Designing+scalable+RAG+pipelines...;Optimizing+Agentic+AI+systems...;Turning+data+into+decisions...;Always+debugging%2C+always+learning...)](https://git.io/typing-svg)
@@ -22,14 +20,14 @@ $ whoami
 ## `~/about_me`
 
 ```yaml
-name:        John Varshan J
-role:        Data Scientist & AI Engineer
-focus:       Generative AI | Agentic Systems | RAG Pipelines
-education:   M.Sc. Applied Data Science, SRM Institute of Science and Technology
+Name:        John Varshan J
+Role:        Data Scientist & AI/ML Engineer
+Focus:       Generative AI | Agentic Systems | RAG Pipelines
+Education:   M.Sc. Applied Data Science, SRM Institute of Science and Technology
              B.Sc. Statistics, Loyola College
-based_in:    India
-currently:   Building scalable GenAI systems & optimizing LLM inference
-fun_fact:    I benchmark vector DBs for fun (not really, but kind of)
+Based_in:    Bengaluru, India
+Currently:   Building scalable GenAI systems & optimizing LLM inference
+Fun_fact:    I benchmark vector DBs for fun (not really, but kind of)
 ```
 
 ---
@@ -54,7 +52,7 @@ fun_fact:    I benchmark vector DBs for fun (not really, but kind of)
 
 ---
 
-> 🔗 Full source on GitHub — see pinned repos below
+> 🔗 Full source on GitHub — see repos
 
 ---
 
@@ -107,18 +105,8 @@ fun_fact:    I benchmark vector DBs for fun (not really, but kind of)
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00FF41)](https://www.linkedin.com/in/john-varshan-j-wbsj5/)
-[![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=00FF41)](mailto:varshanj805@gmail.com)
 
 </div>
-
----
-
-<div align="center">
-
-```
-$ echo "Thanks for stopping by!"
-> Thanks for stopping by!
 ```
 
 [![](https://visitcount.itsvg.in/api?id=varshanj-hub&icon=6&color=0)](https://visitcount.itsvg.in)
