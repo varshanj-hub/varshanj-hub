@@ -17,6 +17,43 @@
 
 ---
 
+**Generative AI**
+![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=langchain&logoColor=00FF41)
+![LangGraph](https://img.shields.io/badge/LangGraph-000000?style=for-the-badge&logoColor=00FF41)
+![RAG](https://img.shields.io/badge/RAG-000000?style=for-the-badge&logoColor=00FF41)
+![Agentic AI](https://img.shields.io/badge/Agentic%20AI-000000?style=for-the-badge&logoColor=00FF41)
+![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-000000?style=for-the-badge&logoColor=00FF41)
+![HuggingFace](https://img.shields.io/badge/Hugging%20Face-000000?style=for-the-badge&logo=huggingface&logoColor=00FF41)
+![LoRA](https://img.shields.io/badge/LoRA-000000?style=for-the-badge&logoColor=00FF41)
+![QLoRA](https://img.shields.io/badge/QLoRA-000000?style=for-the-badge&logoColor=00FF41)
+ 
+**Vector DBs & Backend**
+![pgvector](https://img.shields.io/badge/pgvector-000000?style=for-the-badge&logo=postgresql&logoColor=00FF41)
+![FAISS](https://img.shields.io/badge/FAISS-000000?style=for-the-badge&logo=meta&logoColor=00FF41)
+![Qdrant](https://img.shields.io/badge/Qdrant-000000?style=for-the-badge&logoColor=00FF41)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-000000?style=for-the-badge&logoColor=00FF41)
+![FastAPI](https://img.shields.io/badge/FastAPI-000000?style=for-the-badge&logo=fastapi&logoColor=00FF41)
+![REST APIs](https://img.shields.io/badge/REST%20APIs-000000?style=for-the-badge&logoColor=00FF41)
+![Streamlit](https://img.shields.io/badge/Streamlit-000000?style=for-the-badge&logo=streamlit&logoColor=00FF41)
+ 
+**Programming & ML**
+![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=00FF41)
+![SQL](https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=postgresql&logoColor=00FF41)
+![Statistics](https://img.shields.io/badge/Statistics-000000?style=for-the-badge&logoColor=00FF41)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-000000?style=for-the-badge&logo=scikit-learn&logoColor=00FF41)
+![Pandas](https://img.shields.io/badge/Pandas-000000?style=for-the-badge&logo=pandas&logoColor=00FF41)
+![NumPy](https://img.shields.io/badge/NumPy-000000?style=for-the-badge&logo=numpy&logoColor=00FF41)
+![Seaborn](https://img.shields.io/badge/Seaborn-000000?style=for-the-badge&logoColor=00FF41)
+![Tableau](https://img.shields.io/badge/Tableau-000000?style=for-the-badge&logo=tableau&logoColor=00FF41)
+ 
+**Deployment & Tools**
+![Docker](https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=00FF41)
+![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=00FF41)
+![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00FF41)
+![n8n](https://img.shields.io/badge/n8n%20Workflows-000000?style=for-the-badge&logo=n8n&logoColor=00FF41)
+
+---
+
 ## `~/about_me`
 
 ```yaml
@@ -56,54 +93,16 @@ Fun_fact:    I benchmark vector DBs for fun (not really, but kind of)
 
 ---
 
-## `~/tech_stack --verbose`
 
-**Generative AI**
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/🤗%20HuggingFace-FFD21E?style=for-the-badge)
-![OpenAI](https://img.shields.io/badge/RAG%20%2F%20Agentic%20AI-000000?style=for-the-badge&logo=openai&logoColor=white)
-
-**Vector DBs & Backend**
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![Postgres](https://img.shields.io/badge/pgvector-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-
-**Languages & ML**
-![Python](https://img.shields.io/badge/python-000000?style=for-the-badge&logo=python&logoColor=00FF41)
-![R](https://img.shields.io/badge/r-000000.svg?style=for-the-badge&logo=r&logoColor=00FF41)
-![SQL](https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=postgresql&logoColor=00FF41)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-000000.svg?style=for-the-badge&logo=scikit-learn&logoColor=00FF41)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-000000.svg?style=for-the-badge&logo=TensorFlow&logoColor=00FF41)
-![Pandas](https://img.shields.io/badge/pandas-000000.svg?style=for-the-badge&logo=pandas&logoColor=00FF41)
-![NumPy](https://img.shields.io/badge/numpy-000000.svg?style=for-the-badge&logo=numpy&logoColor=00FF41)
-![Plotly](https://img.shields.io/badge/Plotly-000000.svg?style=for-the-badge&logo=plotly&logoColor=00FF41)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-000000.svg?style=for-the-badge&logo=Matplotlib&logoColor=00FF41)
-
-**Deployment & Tools**
-![Docker](https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=00FF41)
-![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=00FF41)
-![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00FF41)
-![n8n](https://img.shields.io/badge/n8n-000000?style=for-the-badge&logo=n8n&logoColor=00FF41)
-
----
 
 ## `~/github_stats --fetch`
-
+ 
 <div align="center">
-
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=varshanj-hub&theme=aura&hide_border=false&include_all_commits=false&count_private=false)
-
+ 
 ![Streak Stats](https://nirzak-streak-stats.vercel.app/?user=varshanj-hub&theme=aura&hide_border=false)
-
+ 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=varshanj-hub&theme=aura&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-</div>
-
----
-
-## `~/connect --socials`
-
-<div align="center">
 
 
 </div>
