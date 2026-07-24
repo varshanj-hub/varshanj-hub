@@ -86,15 +86,7 @@ Fun_fact:    I benchmark vector DBs for fun (not really, but kind of)
     - Analyzed 87K+ hourly climate records spanning a 10-year period
     - Built 5+ interactive Tableau dashboards (+40% stakeholder engagement)
 ```
-
 ---
-
-> 🔗 Full source on GitHub — see repos
-
----
-
-
-
 ## `~/github_stats --fetch`
  
 <div align="center">
@@ -103,13 +95,11 @@ Fun_fact:    I benchmark vector DBs for fun (not really, but kind of)
 ![Streak Stats](https://nirzak-streak-stats.vercel.app/?user=varshanj-hub&theme=aura&hide_border=false)
  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=varshanj-hub&theme=aura&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-
+ 
 </div>
-```
 
-[![](https://visitcount.itsvg.in/api?id=varshanj-hub&icon=6&color=0)](https://visitcount.itsvg.in)
+---
 
-<sub>Crafted with ☕ and way too many terminal windows</sub>
+> 🔗 Full source on GitHub — see repos
 
-</div>
+---
