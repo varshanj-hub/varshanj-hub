@@ -54,18 +54,6 @@ fun_fact:    I benchmark vector DBs for fun (not really, but kind of)
 
 ---
 
-## `~/projects --list`
-
-```bash
-[1] Document Retrieval & Analysis App        → Streamlit · RAG · System Integration
-    Multi-format (PDF/DOCX/PPTX) ingestion + semantic RAG search
-    → -70% manual processing | +45% Q&A relevance
-
-[2] Employee Attrition Prediction             → Python · Machine Learning
-    Logistic Regression / Random Forest / Boosting + SMOTE class balancing
-    → Evaluated via ROC-AUC & F1-score
-```
-
 > 🔗 Full source on GitHub — see pinned repos below
 
 ---
