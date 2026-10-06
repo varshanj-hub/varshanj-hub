@@ -1,6 +1,6 @@
 <div align="center">
 
-### `Data Scientist` · `AI/ML Engineer` · `GenAI / RAG Systems`
+### `Data Scientist` · `AI/ML Developer` · `GenAI / RAG Systems`
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00FF41)](https://www.linkedin.com/in/john-varshan-j-wbsj5/)
 [![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=00FF41)](mailto:varshanj805@gmail.com)
